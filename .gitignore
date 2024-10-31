@@ -73,3 +73,15 @@ artifacts/
 # macOS and Windows settings
 .DS_Store
 Thumbs.db
+/EventDrivenMicroservices/OrderService/obj/Debug/net8.0/OrderService.AssemblyInfo.cs
+/EventDrivenMicroservices/OrderService/obj/Debug/net8.0/OrderService.AssemblyInfoInputs.cache
+/EventDrivenMicroservices/OrderService/obj/rider.project.model.nuget.info
+/EventDrivenMicroservices/OrderService/obj/rider.project.restore.info
+/EventDrivenMicroservices/ProductService/obj/Debug/net8.0/ProductService.AssemblyInfo.cs
+/EventDrivenMicroservices/ProductService/obj/Debug/net8.0/ProductService.AssemblyInfoInputs.cache
+/EventDrivenMicroservices/ProductService/obj/ProductService.csproj.nuget.dgspec.json
+/EventDrivenMicroservices/ProductService/obj/ProductService.csproj.nuget.g.props
+/EventDrivenMicroservices/ProductService/obj/project.assets.json
+/EventDrivenMicroservices/ProductService/obj/project.nuget.cache
+/EventDrivenMicroservices/ProductService/obj/rider.project.model.nuget.info
+/EventDrivenMicroservices/ProductService/obj/rider.project.restore.info
